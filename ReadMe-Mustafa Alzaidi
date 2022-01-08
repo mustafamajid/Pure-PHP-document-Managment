@@ -1,0 +1,7 @@
+Hi This is mustafa alzaidi.
+This is a simple but (but real world project) used to stor scaned documents in the system from many client in the newwork.
+each clint has password and user name in the database
+using pure PHP and MySQL. 
+the documents stored with a number of attributes like document number and date, sender, and reciver..ect.
+The root file is Login.php if the login is successful with the right password and username then the next page is chois.php where the user can choose to add new documents or search for already stored ones.
+the stored documents Images can be viewed and printed.
