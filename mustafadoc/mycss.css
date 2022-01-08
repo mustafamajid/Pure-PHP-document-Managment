@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+.lable{
+	color:#E5D6D7;
+	font-size: 23;
+	font-weight: 700;
+	color:#0CF;
+	text-align: right;
+display: block;
+}
+.table{
+	margin-right:300px;
+	border-radius: 30px;
+	border: thick;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 700px ;
+	border-radius: 10px;
+	padding: 10px;
+	
+	
+}
+.txt{
+	width: 400px;
+	font-size: 23;
+	font-weight: 600;
+	border-radius: 10px;
+	text-align:right;
+}
+td{ 
+padding: 10px;
+}
+.txta{
+	width: 400px;
+	font-size: 23;
+	font-weight: 600;
+	border-radius: 10px;
+}
+.dat{
+	width: 400px;
+	font-size: 23;
+	font-weight: 600;
+	border-radius: 10px;
+}
